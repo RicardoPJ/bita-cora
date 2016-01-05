@@ -8,8 +8,11 @@ Se registo el dia 3, volumenes de 1 uL, 2 uL, 3 uL, 4 uL. cada uno con 20 replic
 
 Se presenta datos del tercer evento:
 
-![alt text](https://github.com/RicardoPJ/bita-cora/blob/master/Ensayo_Medicion_microvolumenes/Imagenes/Tab_error_d1.png)
+![alt text](https://github.com/RicardoPJ/bita-cora/blob/master/Ensayo_Medicion_microvolumenes/Imagenes/Tab_error_d3.png)
 
+Podemos observar la graficacion de los resultados, en el eje X observamos los volumenes deseados en los que se calibro la micropipeta, en el eje Y observamos la media de los volumenes medidos. para cada resultado se observan las barras de error sobre eje Y, representativas de la desviacion estandar de el conjunto de datos.
+
+![alt text](https://github.com/RicardoPJ/bita-cora/blob/master/Ensayo_Medicion_microvolumenes/Imagenes/cal_error_d3.png)
 Los datos de las replicas anteriores se pueden consultar en el siguente link:
 
 https://github.com/RicardoPJ/bita-cora/blob/master/Ensayo_Medicion_microvolumenes/Reportes/practica_de_medicion_de_microvolumenes.md
